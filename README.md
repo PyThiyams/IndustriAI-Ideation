@@ -1,5 +1,11 @@
 #  IndustriAI-Ideation | Green Finance Optimization Platform
 
+
+## Links
+
+Link to [3-slide Presentation](https://www.canva.com/design/DAGbUmGN_6Q/vG_B0ltEiTYy2QQTwDSP5w/edit?utm_content=DAGbUmGN_6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Link to [Project Repository](https://github.com/PyThiyams/Green-Finance-Manager)
+
 ## Problem Statement
 
 ### Objective
@@ -140,7 +146,4 @@ The final output includes a comprehensive set of numerical data points and score
 
 ---
 
-## Links
-
-Link to [3-slide Presentation](https://www.canva.com/design/DAGbUmGN_6Q/vG_B0ltEiTYy2QQTwDSP5w/edit?utm_content=DAGbUmGN_6Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
